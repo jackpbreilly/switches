@@ -3,4 +3,11 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="verde_thumb">#43a047</color>
+    <color name="verde_track">#00701a</color>
+    <color name="rojo_thumb">#e53935</color>
+    <color name="rojo_track">#ab000d</color>
+
+
 </resources>
